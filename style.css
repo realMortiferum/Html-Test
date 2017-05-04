@@ -15,7 +15,7 @@ body{
   text-align: center;
 }
 
-ul {
+#headlist {
     list-style-type: none;
     margin: 0;
     padding: 0;
